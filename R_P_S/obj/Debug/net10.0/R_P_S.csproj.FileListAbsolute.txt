@@ -1,0 +1,15 @@
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\bin\Debug\net10.0\R_P_S.exe
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\bin\Debug\net10.0\R_P_S.deps.json
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\bin\Debug\net10.0\R_P_S.runtimeconfig.json
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\bin\Debug\net10.0\R_P_S.dll
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\bin\Debug\net10.0\R_P_S.pdb
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.AssemblyInfoInputs.cache
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.AssemblyInfo.cs
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.csproj.CoreCompileInputs.cache
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.sourcelink.json
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.dll
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\refint\R_P_S.dll
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.pdb
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\R_P_S.genruntimeconfig.cache
+C:\Users\peter\OneDrive\Documentos\VISUAL STUDIO CODE\C# LESSONS\LESSON TWO\R_P_S\obj\Debug\net10.0\ref\R_P_S.dll

@@ -17,10 +17,11 @@ The game is written using VS Code, using the C# programming language.
 * Enjoy the game.  
 
 ### On Load
-![on load](play.png)
+![on choosing](start.png)
+
 
 ### On Choosing 
-![on choosing](start.png)
+![on load](play.png)
 
 ### On Replay
 ![on replay](retry.png)
